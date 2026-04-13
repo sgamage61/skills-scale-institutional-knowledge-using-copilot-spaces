@@ -94,6 +94,12 @@ OctoAcme follows a six-phase lifecycle. Each phase has a dedicated process docum
 | **Developers** | Design, implement, test, and deliver software increments |
 | **QA / Testing** | Validate features against acceptance criteria and quality standards |
 | **Stakeholders** | Provide requirements, review key milestones, and approve releases |
+| **UX/UI Designer** | Design user flows, wireframes, and visual assets; ensure usability and accessibility |
+| **DevOps Engineer** | Manage CI/CD pipelines, infrastructure, deployment, and observability |
+| **Customer Support / Success** | Handle user escalations, channel feedback, and inform backlog prioritization |
+| **Security Champion** | Ensure security best practices, lead threat modeling, and coordinate incident response |
+
+> For detailed role descriptions and interaction guidance for all roles, including the four roles above, see [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md). For onboarding checklists and cross-role handoff templates, see [`octoacme-cross-role-collaboration.md`](octoacme-cross-role-collaboration.md).
 
 ---
 
@@ -113,11 +119,13 @@ OctoAcme follows a six-phase lifecycle. Each phase has a dedicated process docum
 
 | Cadence | Participants | Purpose |
 |---|---|---|
-| Daily standup | Delivery team | Progress, blockers, and coordination |
+| Daily standup | Delivery team (Developers, QA, UX/UI Designer, DevOps Engineer) | Progress, blockers, and coordination |
 | Weekly PM + PdM sync | PM, PdM | Roadmap alignment and risk review |
-| Weekly delivery sync | PM, engineers, QA | Sprint progress, dependencies, escalations |
-| Monthly stakeholder update | PM, PdM, stakeholders | Status, milestones, upcoming decisions |
-| Sprint demo / milestone review | All | Showcase increments and gather feedback |
+| Weekly delivery sync | PM, engineers, QA, DevOps Engineer | Sprint progress, dependencies, escalations |
+| Monthly stakeholder update | PM, PdM, stakeholders, Customer Support/Success | Status, milestones, upcoming decisions |
+| Sprint demo / milestone review | All roles | Showcase increments and gather feedback |
+| Security & risk review | PM, Security Champion, DevOps Engineer | Review risk register, new threats, and security posture |
+| Design review | UX/UI Designer, Developers, QA, PM | Review designs before implementation to catch issues early |
 
 ---
 
@@ -135,6 +143,7 @@ All process documents live in this `docs/` folder:
 | [`octoacme-release-and-deployment.md`](octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, and incident playbook |
 | [`octoacme-retrospective-and-continuous-improvement.md`](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format and action-item tracking |
 | [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) | Detailed role definitions and persona descriptions |
+| [`octoacme-cross-role-collaboration.md`](octoacme-cross-role-collaboration.md) | Onboarding checklists, handoff templates, and cross-role collaboration guides |
 
 ---
 

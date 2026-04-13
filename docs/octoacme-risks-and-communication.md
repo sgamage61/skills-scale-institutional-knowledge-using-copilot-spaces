@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Customer Support/Success should receive release notes and upcoming change summaries ahead of each deployment so they can prepare for user questions
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +40,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Champion immediately; Security Champion notifies Security on-call and leads response
+- For customer-impacting production issues, Customer Support/Success escalates to PM and PdM outside normal cadence when SLAs are at risk
