@@ -14,6 +14,7 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Invite all roles involved in the sprint or release: Developers, QA, UX/UI Designer, DevOps Engineer, Security Champion, and Customer Support/Success where applicable
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 
@@ -31,3 +32,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Encourage all roles — including UX/UI Designers, DevOps Engineers, Customer Support/Success, and Security Champions — to bring observations and suggestions to retrospectives
+- Customer Support/Success feedback on post-release user experience should be a standard retrospective input

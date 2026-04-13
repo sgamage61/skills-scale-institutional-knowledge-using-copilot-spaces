@@ -9,10 +9,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
+1. Kickoff meeting with stakeholders and delivery team (including UX/UI Designer, DevOps Engineer, Security Champion where applicable)
+2. Create prioritized backlog with acceptance criteria (include security and UX acceptance criteria)
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Done (DoD) — include UX sign-off, security review, and DevOps readiness
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
@@ -36,8 +36,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (invite UX/UI Designer, DevOps Engineer, Security Champion as appropriate)
 - [ ] Backlog prioritized and estimated
+- [ ] UX/UI design requirements identified and design review scheduled
+- [ ] Security acceptance criteria included in relevant backlog items (reviewed with Security Champion)
+- [ ] DevOps/infrastructure requirements identified and deployment approach agreed
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (including UX sign-off, security review, and staging validation)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Cross-role handoffs documented (see [`octoacme-cross-role-collaboration.md`](octoacme-cross-role-collaboration.md))

@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX/UI Designer: design user flows, wireframes, and visual assets; ensure usability and accessibility.
+- DevOps Engineer: manage CI/CD pipelines, infrastructure, and deployment operations.
+- Customer Support/Success: handle user feedback, escalations, and channel insights to the product team.
+- Security Champion: ensure security best practices, lead threat modeling, and coordinate incident response.
 
 ## Key Artifacts
 - Project Charter / One-pager
