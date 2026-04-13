@@ -142,7 +142,7 @@ All process documents live in this `docs/` folder:
 
 OctoAcme welcomes contributions to these process documents. To suggest additions or changes:
 
-1. **Open an issue** using the [Add Content to Project Management Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template found in `.github/ISSUE_TEMPLATE/`. The template guides you through:
+1. **Open an issue** using the [Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template found in `.github/ISSUE_TEMPLATE/`. The template guides you through:
    - Selecting the document you want to update (or proposing a new one).
    - Writing a summary of the new content.
    - Explaining why the update is needed.
